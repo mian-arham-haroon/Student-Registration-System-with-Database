@@ -43,6 +43,7 @@ This project demonstrates the integration of multiple Python libraries to build 
 ├── Students Images/              # Folder for student photos
 ├── README.md                     # Project description
 ├── screenshots/                  # Contains screenshots of the GUI
+│   └── front_page.png            # Screenshot of the front page UI
 ```
 
 ---
@@ -59,7 +60,9 @@ pip install pillow openpyxl
 
 ## 🖼️ Screenshots
 
-Screenshots are available in the `/screenshots` folder to help you visually understand how the system works and what it looks like.
+Screenshots are available in the `/screenshots` folder to help you visually understand how the system works and what it looks like. Below is a snapshot of the application's front page:
+
+![Front Page](ss.png)
 
 ---
 
